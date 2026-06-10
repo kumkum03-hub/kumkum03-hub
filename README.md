@@ -1,12 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Kumkum%20Kamthan&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=kumkum03-hub">
-    <img src="https://komarev.com/ghpvc/?username=kumkum03-hub&label=Profile%20views&color=00FFFF&style=flat-square" alt="kumkum03-hub's profile views" />
-  </a>
-</p>
 
-<img src="none" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - BCA student with hands-on experience in frontend and full-stack web development
